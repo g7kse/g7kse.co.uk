@@ -1,9 +1,9 @@
 ---
-title: My Site
+title: g7kse.co.uk
 toc: false
 ---
 
-This is the landing page.
+Some stuff that I've managed to do. Mostly to do with ham radio, but some other bits and pieces
 
 ## Explore
 
